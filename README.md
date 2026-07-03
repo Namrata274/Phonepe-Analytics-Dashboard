@@ -12,4 +12,4 @@ Example: The dashboard was built using the following tools and technologies:
 
 # 6. Screenshots / Demos
 Show what the dashboard looks like.
-Example:https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Phonepe%20Dashboard.jpeg
+Example:[Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Phonepe%20Dashboard.jpeg)

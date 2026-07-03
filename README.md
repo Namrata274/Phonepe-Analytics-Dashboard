@@ -52,8 +52,10 @@ Example:![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Da
 
 # 🛠️ Tooltips  
 # 1. Transactions Over Time Tooltip
-Shows extra details for each month, including total transaction value and number of transactions. This helps users quickly compare monthly trends without opening another chart.  
+Shows extra details for each month, including total transaction value and number of transactions. This helps users quickly compare monthly trends without opening another chart. 
+![Tooltip Preview](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/commit/328ca5780ad20f1c0325bfb38cd1a5fddf891588)
 # 2. Service Transaction Value Tooltip
 Displays detailed values for each service category like Loans, Insurance, Transfers, Recharge. Users can hover to see exact numbers and understand which service contributes the most.  
+![Tooltip Preview](
 # 3. Age Segment Contribution Tooltip
 Explains the share of different age groups (Gen X, Millennials, Gen Z, Others) in total transactions. Hovering shows clear percentages, making it easy to see which age group is most active.

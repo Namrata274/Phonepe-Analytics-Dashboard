@@ -1,6 +1,6 @@
 # Phonepe-Analytics-Dashboard
 # 1. Project Title 
-**💸 PhonePe Pulse Analytics: India’s Digital Payment Insights Dashboard **
+💸 **PhonePe Pulse Analytics: India’s Digital Payment Insights Dashboard ** 
 A dynamic, interactive data visualization tool built to explore PhonePe transaction trends across India—focusing on regional comparisons, payment categories, growth patterns, and user adoption.
 
 # 3. Tech Stack  

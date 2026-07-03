@@ -11,5 +11,5 @@ Example: The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .jpeg for dashboard previews.
 
 # 6. Screenshots / Demos
-Show what the dashboard looks like.![Alt Text](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Phonepe%20Dashboard.jpeg)
+Show what the dashboard looks like.
 Example:![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Phonepe%20Dashboard.jpeg)

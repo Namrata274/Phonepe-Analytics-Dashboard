@@ -1,4 +1,7 @@
 # Phonepe-Analytics-Dashboard
+# 1. Project Title 
+**💸 PhonePe Pulse Analytics: India’s Digital Payment Insights Dashboard **
+A dynamic, interactive data visualization tool built to explore PhonePe transaction trends across India—focusing on regional comparisons, payment categories, growth patterns, and user adoption.
 
 # 3. Tech Stack  
 List the key technologies used to build the dashboard.  
@@ -10,6 +13,6 @@ Example: The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Relationships established among tables (Date, Transaction, Users) to enable cross-filtering and aggregation.  
 • 📁 File Format – .pbix for development and .jpeg for dashboard previews.  
 
-# 6. Screenshots / Demos
+# 6. Screenshots 
 Show what the dashboard looks like.
 Example:![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Phonepe%20Dashboard.jpeg)

@@ -47,16 +47,21 @@ Finds patterns in services, user demographics, and payment behavior.
   **• Growth Areas:** Insurance and transfers have scope to grow with better promotions.  
 
 # 6. Screenshots 
-Show what the dashboard looks like.
-Example:![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpeg)  
+Show what the dashboard looks like.    
+Example: 
+
+![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpeg)  
 
 # 🛠️ Tooltips  
 # 1. Transactions Over Time Tooltip
-Shows extra details for each month, including total transaction value and number of transactions. This helps users quickly compare monthly trends without opening another chart. 
+Shows extra details for each month, including total transaction value and number of transactions. This helps users quickly compare monthly trends without opening another chart.    
+
 ![Tooltip Preview](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Time%20Tooltip.jpeg)
 # 2. Service Transaction Value Tooltip
-Displays detailed values for each service category like Loans, Insurance, Transfers, Recharge. Users can hover to see exact numbers and understand which service contributes the most.  
+Displays detailed values for each service category like Loans, Insurance, Transfers, Recharge. Users can hover to see exact numbers and understand which service contributes the most.   
+
 ![Tooltip Preview](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Value%20Tooltip.jpeg)
 # 3. Age Segment Contribution Tooltip
-Explains the share of different age groups (Gen X, Millennials, Gen Z, Others) in total transactions. Hovering shows clear percentages, making it easy to see which age group is most active.
+Explains the share of different age groups (Gen X, Millennials, Gen Z, Others) in total transactions. Hovering shows clear percentages, making it easy to see which age group is most active.   
+
 ![Tooltip Preview](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Contribution%20Tooltip.jpeg)

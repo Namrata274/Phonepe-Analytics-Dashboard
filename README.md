@@ -10,6 +10,6 @@ Example: The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Relationships established among tables (Date, Transaction, Users) to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .jpeg for dashboard previews.
 
-6. Screenshots / Demos
+# 6. Screenshots / Demos
 Show what the dashboard looks like.
-Example:
+Example:https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Phonepe%20Dashboard.jpeg

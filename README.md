@@ -48,4 +48,12 @@ Finds patterns in services, user demographics, and payment behavior.
 
 # 6. Screenshots 
 Show what the dashboard looks like.
-Example:![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpeg)
+Example:![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpeg)  
+
+# 🛠️ Tooltips  
+# 1. Transactions Over Time Tooltip
+Shows extra details for each month, including total transaction value and number of transactions. This helps users quickly compare monthly trends without opening another chart.  
+# 2. Service Transaction Value Tooltip
+Displays detailed values for each service category like Loans, Insurance, Transfers, Recharge. Users can hover to see exact numbers and understand which service contributes the most.  
+# 3. Age Segment Contribution Tooltip
+Explains the share of different age groups (Gen X, Millennials, Gen Z, Others) in total transactions. Hovering shows clear percentages, making it easy to see which age group is most active.

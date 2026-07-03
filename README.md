@@ -48,4 +48,4 @@ Finds patterns in services, user demographics, and payment behavior.
 
 # 6. Screenshots 
 Show what the dashboard looks like.
-Example:![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Phonepe%20Dashboard.jpeg)
+Example:![Dashboard Previews](https://github.com/Namrata274/Phonepe-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpeg)
